@@ -4,7 +4,7 @@ equationSolver is a program that solves basic arithmetic equations
 
 ## Installation
 
-Got your project's directory and clone the following command
+Go  to your project's directory and clone the following command
 ```bash
 git clone https://github.com/Piii-thagorus/equationSolver.git
 ```
